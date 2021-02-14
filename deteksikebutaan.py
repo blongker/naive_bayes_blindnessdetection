@@ -2,7 +2,7 @@ import numpy as np
 import pandas 
 import os
 
-data_t = pandas.read_csv(r'C:\Users\Whiteseries\Downloads\naivebayes\Blindness.csv')
+data_t = pandas.read_csv(r'csv file')
 data = pandas.DataFrame(data_t)
 
 judul=('=======Deteksi Kebutaan=======')
